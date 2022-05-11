@@ -1,2 +1,2 @@
 # consultaTramite
-Script en Python usando Selenium para automatizar la consulta de un tramite el cual debia controlar todos los dias, el resultado se envia por Telegram. Lo puse en mi raspberry y configuré un cron para que todos los dias a la misma hora se envie automaticamente.
+Hice este script para automatizar la consulta de un tramite, el cual consultaba todos los dias para ver su estado, el resultado se envia por Telegram. Configuré un cron en una raspberry para que se envie todos los dias a la misma hora. 
